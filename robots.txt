@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ulaxoebo.github.io/GBs/sitemap_index.txt
+Sitemap: https://ulaxoebo.github.io/ODa/sitemap_index.txt
+Sitemap: https://ulaxoebo.github.io/Tyd/sitemap_index.txt
+Sitemap: https://ulaxoebo.github.io/gTO/sitemap_index.txt
